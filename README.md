@@ -9,7 +9,7 @@ This repository contains a custom ROS 2 `hardware_interface` implementation for 
 
 ![Simluation Video](https://github.com/ahmadmadyy/ROS2-Control/blob/main/ros2_control.mp4)
 
-[![Watch the video](https://github.com/ahmadmadyy/ROS2-Control/blob/main/assets/thumbnail.jpg)](https://github.com/ahmadmadyy/ROS2-Control/blob/main/ros2_control.mp4)
+[![Watch the video](https://githubusercontent.com/ahmadmadyy/ROS2-Control/blob/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/ahmadmadyy/ROS2-Control/blob/main/assets/ros2_control.mp4)
 
 ## 📦 Package Overview
 
